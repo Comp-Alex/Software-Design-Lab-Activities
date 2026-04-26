@@ -1,5 +1,5 @@
 # Software Design Lab Activities
-#Introduction 
+# Introduction 
 - Software design is a critical phase in the development lifecycle, serving as the blueprint that transforms abstract requirements into structured solutions. This repository has been created to compile and organize lab activities focused on software design principles, methodologies, and practical applications.
 
 # Objectives
