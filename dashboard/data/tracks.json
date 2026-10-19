@@ -1,0 +1,86 @@
+{
+  "tracks": [
+    {
+      "id": "uml",
+      "title": "Model the system",
+      "topics": [
+        {
+          "id": "uml-fundamentals",
+          "name": "UML fundamentals",
+          "source": "README.md",
+          "href": "README.md"
+        },
+        {
+          "id": "uml-class",
+          "name": "Class diagrams"
+        },
+        {
+          "id": "uml-sequence",
+          "name": "Sequence diagrams"
+        },
+        {
+          "id": "uml-activity",
+          "name": "Activity diagrams"
+        },
+        {
+          "id": "uml-dfd",
+          "name": "Data flow diagrams",
+          "source": "README.md",
+          "href": "README.md"
+        }
+      ]
+    },
+    {
+      "id": "patterns",
+      "title": "Apply design patterns",
+      "topics": [
+        {
+          "id": "patterns-foundations",
+          "name": "Architectural patterns",
+          "source": "README.md",
+          "href": "README.md"
+        },
+        {
+          "id": "patterns-creational",
+          "name": "Creational patterns"
+        },
+        {
+          "id": "patterns-structural",
+          "name": "Structural patterns"
+        },
+        {
+          "id": "patterns-behavioral",
+          "name": "Behavioral patterns"
+        }
+      ]
+    },
+    {
+      "id": "concepts",
+      "title": "Engineer with intent",
+      "topics": [
+        {
+          "id": "concepts-requirements",
+          "name": "Requirements analysis",
+          "source": "README.md",
+          "href": "README.md"
+        },
+        {
+          "id": "concepts-decomposition",
+          "name": "Problem decomposition",
+          "source": "README.md",
+          "href": "README.md"
+        },
+        {
+          "id": "concepts-maintainability",
+          "name": "Maintainability & scalability",
+          "source": "README.md",
+          "href": "README.md"
+        },
+        {
+          "id": "concepts-lifecycle",
+          "name": "Software design lifecycle"
+        }
+      ]
+    }
+  ]
+}

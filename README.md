@@ -11,3 +11,8 @@
 
 # Lab Activities
 By engaging with these activities, learners will gain practical experience in analyzing requirements, modeling system behavior, and designing maintainable, efficient, and scalable software solutions. This repository is not only a collection of exercises but also a foundation for cultivating critical thinking and professional design practices in software engineering.
+
+# Engineering Dashboard
+Open [`dashboard/index.html`](./dashboard/index.html) to explore the Software Design engineering dashboard. It brings together UML and data-flow diagram topics, design patterns, software engineering concepts, repository activity, and a browser-saved learning checklist.
+
+To preview it locally, serve the repository root over HTTP (for example, run `python -m http.server 8000` from the repository root) and visit `http://localhost:8000/dashboard/`. The GitHub Actions workflow in `.github/workflows/update-dashboard.yml` refreshes repository activity data daily and can also be run manually.
