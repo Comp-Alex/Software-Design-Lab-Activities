@@ -1,12 +1,24 @@
 {
-  "generatedAt": "2026-10-20T11:45:12+00:00",
+  "generatedAt": "2026-10-21T11:56:43+00:00",
   "repository": {
     "trackedFiles": 41,
     "umlAssets": 0
   },
   "activity": {
-    "commitsLast7Days": 3,
+    "commitsLast7Days": 5,
     "recentCommits": [
+      {
+        "hash": "74d91cd",
+        "message": "docs: update engineering journal 2026-10-20",
+        "date": "Oct 21, 2026",
+        "timestamp": "2026-10-21T04:54:05+08:00"
+      },
+      {
+        "hash": "95cdc42",
+        "message": "chore: refresh engineering dashboard data",
+        "date": "Oct 20, 2026",
+        "timestamp": "2026-10-20T11:45:12Z"
+      },
       {
         "hash": "ebbb8fa",
         "message": "docs: update engineering journal 2026-10-19",
@@ -24,18 +36,6 @@
         "message": "Add interactive engineering dashboard",
         "date": "Oct 19, 2026",
         "timestamp": "2026-10-19T22:04:26+08:00"
-      },
-      {
-        "hash": "9f260fc",
-        "message": "Rebuild personal portfolio webpage",
-        "date": "Oct 11, 2026",
-        "timestamp": "2026-10-11T22:55:11+08:00"
-      },
-      {
-        "hash": "b15d22c",
-        "message": "UI changes and Personal info update",
-        "date": "Apr 29, 2026",
-        "timestamp": "2026-04-29T12:26:09+08:00"
       }
     ]
   }
