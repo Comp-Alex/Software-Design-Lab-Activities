@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:18:26+00:00",
+  "generatedAt": "2026-11-26T16:58:46+00:00",
   "repository": {
     "trackedFiles": 41,
     "umlAssets": 0
@@ -7,6 +7,12 @@
   "activity": {
     "commitsLast7Days": 6,
     "recentCommits": [
+      {
+        "hash": "aff1ccc",
+        "message": "chore: refresh engineering dashboard data",
+        "date": "Nov 25, 2026",
+        "timestamp": "2026-11-25T17:18:26Z"
+      },
       {
         "hash": "e38544e",
         "message": "chore: refresh engineering dashboard data",
@@ -30,12 +36,6 @@
         "message": "chore: refresh engineering dashboard data",
         "date": "Nov 21, 2026",
         "timestamp": "2026-11-21T14:43:41Z"
-      },
-      {
-        "hash": "3f257b5",
-        "message": "chore: refresh engineering dashboard data",
-        "date": "Nov 20, 2026",
-        "timestamp": "2026-11-20T15:31:36Z"
       }
     ]
   }
